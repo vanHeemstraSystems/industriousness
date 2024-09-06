@@ -25,11 +25,15 @@ sequenceDiagram
     participant Channels
     participant Planning
     participant Workspaces
+    participant Weekly
+    participant Daily
     Industriousness->>Communication: Open Communication
     Communication->>Channels: Monitor "Industriousness" Channel
     Channels->>Channels: Interact
     Industriousness->>Planning: Open Planning
     Planning->>Workspaces: Monitor "Industriousness" Workspace
+    Workspaces->>Weekly: Check Weekly Calender Events for This Week
+    Workspaces->>Daily: Check Daily Calender Events for Today
     Workspaces->>Workspaces: Interact
     Workspaces->>Planning: Ready
     Planning->>Industriousness: Ready also
