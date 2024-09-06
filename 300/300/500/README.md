@@ -34,3 +34,6 @@ The above will automatically convert the text to a list of tasks called "Industr
   O 09:00 - 10:00 Industriousness > 2024-09-02
 ```
 
+## 200 - Close a Task if Completed
+
+Checkmark the task "Industriousness" as completed for each day for which the task has finished.
