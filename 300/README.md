@@ -22,10 +22,10 @@ flowchart LR
 sequenceDiagram
     participant Industriousness
     participant Planner
-    participant viewscreen
+    participant Foo
     Industriousness->>Planner: open planner
-    Planner->>foo: do something
-    foo->>Planner: do something else
+    Planner->>Foo: do something
+    Foo->>Planner: do something else
     Planner->>Industriousness: ready
     Industriousness->>Planner: ready also
     Planner->>Planner: repeat
