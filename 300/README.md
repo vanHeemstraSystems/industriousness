@@ -9,11 +9,11 @@ flowchart LR
   A[Actor] --> D(UC: Wednesday)
   A[Actor] --> E(UC: Thursday)
   A[Actor] --> F(UC: Friday)
-  B --> F{Abstract UC: Industriousness}
-  C --> F{Abstract UC: Industriousness}
-  D --> F{Abstract UC: Industriousness}
-  E --> F{Abstract UC: Industriousness}
-  F --> F{Abstract UC: Industriousness}
+  B --> G{Abstract UC: Industriousness}
+  C --> G{Abstract UC: Industriousness}
+  D --> G{Abstract UC: Industriousness}
+  E --> G{Abstract UC: Industriousness}
+  F --> G{Abstract UC: Industriousness}
 ```
 
 ## 200 - What
