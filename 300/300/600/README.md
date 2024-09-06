@@ -18,7 +18,7 @@ In the Daily (Week 36, 2 September 2024) enter the following task by copying and
 09:00 - 09:10 Code a piece of software.
 ```
 
-**NOTE**: Having a timeslot in front of the task is optional. However, only if a task is prefixed with a timeslot, it will show in the calendar.
+**NOTE**: Having a timeslot in front of the task is optional. However, only if a task is prefixed with a timeslot will it show in the calendar.
 
 - Now, in front of the line of text click on the + sign and choose Task.
 - Also hit the < ENTER > key at the end of the line of text.
