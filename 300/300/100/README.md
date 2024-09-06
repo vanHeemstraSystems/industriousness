@@ -8,6 +8,6 @@ Based on "Zulip on Github" at https://github.com/zulip/zulip
 
 Based on "Zulip Cloud" at https://zulipchat.com
 
-As a planner, we recommend using **Zulip** the cloud edition.
+As a planner, we recommend using **Zulip** the cloud edition (free tier).
 
 Open the planner by visiting https://wvanheemstra.zulipchat.com.
