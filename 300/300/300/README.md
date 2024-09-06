@@ -4,6 +4,8 @@
 
 Based on "NotePlan" at https://noteplan.com
 
+Based on "NotePlan on YouTube" at https://www.youtube.com/@noteplan75
+
 For planning we recommend "NotePlan".
 
 Open planning by visiting https://app.noteplan.co in a web browser and/or use the App (sign in with wvanheemstra@icloud.com).
