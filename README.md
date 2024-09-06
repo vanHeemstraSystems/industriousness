@@ -2,6 +2,7 @@ industriousness
 # Industriousness
 
 > Industriousness: constant, energetic, or devoted effort; diligence.
+> There is no substitute for work. Worthwhile results come from hard work and carefull planning. 
 
 Based on "Wooden on Leadership by John Wooden" at https://www.amazon.com/Wooden-Leadership-Create-Winning-Organization/dp/0071453393
 
