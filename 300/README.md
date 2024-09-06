@@ -28,7 +28,7 @@ sequenceDiagram
     Industriousness->>Communications: Open Communications
     Communications->>Channels: Monitor "Industriousness" Channel
     Channels->>Channels: Interact
-    Industriousness->>Planning: Open planner
+    Industriousness->>Planning: Open Planning
     Planning->>Workspaces: Monitor "Industriousness" Workspace
     Workspaces->>Workspaces: Interact
     Workspaces->>Planning: Ready
@@ -45,12 +45,14 @@ sequenceDiagram
 
 See [README.md](./300/100/README.md)
 
-### 200 - Monitor "Industriousness" channel
+### 200 - Monitor "Industriousness" Channel
 
 See [README.md](./300/200/README.md)
 
-### 300 - Open Planner
+### 300 - Open Planning
 
 See [README.md](./300/300/README.md)
+
+### 400 - Monitor "Industriousness" Workspace
 
 MORE
