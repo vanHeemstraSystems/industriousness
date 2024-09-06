@@ -20,13 +20,13 @@ flowchart LR
 
 ```mermaid
 sequenceDiagram
-    participant dotcom
+    participant Industriousness
     participant iframe
     participant viewscreen
-    dotcom->>iframe: loads html w/ iframe url
+    Industriousness->>iframe: loads html w/ iframe url
     iframe->>viewscreen: request template
     viewscreen->>iframe: html & javascript
-    iframe->>dotcom: iframe ready
-    dotcom->>iframe: set mermaid data on iframe
+    iframe->>Industriousness: iframe ready
+    Industriousness->>iframe: set mermaid data on iframe
     iframe->>iframe: render mermaid
 ```
