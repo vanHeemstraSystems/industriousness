@@ -2,7 +2,7 @@
 
 > NotePlan is a note-taking application with tasks and a calendar.
 
-Based on "NotePlan" at ...
+Based on "NotePlan" at https://noteplan.com
 
 For planning we recommend "NotePlan".
 
