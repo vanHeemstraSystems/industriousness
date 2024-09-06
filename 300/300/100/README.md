@@ -10,6 +10,6 @@ Based on "Zulip Cloud" at https://zulipchat.com
 
 As a planner, we recommend using **Zulip** the cloud edition.
 
-To open the planner, ...
+To open the planner by visiting https://wvanheemstra.zulipchat.com.
 
 MORE
