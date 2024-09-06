@@ -47,6 +47,14 @@ Checklists are best to be used for:
 - Timeblocks
 - Actual subtasks. You have one main task and a list of possible subtasks, ideas, etc.
 
-Checklist are similar to Tasks:
+Checklists are similar to Tasks:
 
 1) Both Checklists and Tasks will show in calendars. 
+
+## 400 - Use Tags to Differentiate between Projects
+
+To differentiate between Projects, use a tag (```#```) as a postfix to either a Task or a Checklist Item.
+
+```
+09:00 - 09:00 Code a piece of software. #SpaceShuttleProject
+```
