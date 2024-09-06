@@ -24,11 +24,11 @@ sequenceDiagram
     participant Planner
     participant viewscreen
     Industriousness->>Planner: open planner
-    Planner->>viewscreen: request template
-    viewscreen->>Planner: html & javascript
-    Planner->>Industriousness: iframe ready
-    Industriousness->>Planner: set mermaid data on iframe
-    Planner->>Planner: render mermaid
+    Planner->>foo: do something
+    foo->>Planner: do something else
+    Planner->>Industriousness: ready
+    Industriousness->>Planner: ready also
+    Planner->>Planner: repeat
 ```
 
 ## 300 - How
