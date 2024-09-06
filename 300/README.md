@@ -24,10 +24,14 @@ sequenceDiagram
     participant Communications
     participant Channels
     participant Planner
-    Industriousness->>Communications: Open communications
-    Communications->>Channels: Monitor "Industriousness" channel
+    participant Workspaces
+    Industriousness->>Communications: Open Communications
+    Communications->>Channels: Monitor "Industriousness" Channel
     Channels->>Channels: Interact
     Industriousness->>Planner: Open planner
+    Planner->>Workspaces: Monitor "Industriousness" Workspace
+    Workspaces->>Workspaces: Interact
+    Workspaces->>Planner: Ready
     Channels->>Communications: Ready
     Communications->>Industriousness: Ready also
     Industriousness->>Communications: Do something else
