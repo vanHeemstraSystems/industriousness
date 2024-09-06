@@ -25,9 +25,9 @@ sequenceDiagram
     participant Foo
     Industriousness->>Planner: open planner
     Planner->>Foo: do something
-    Foo->>Planner: do something else
-    Planner->>Industriousness: ready
-    Industriousness->>Planner: do yet something else
+    Foo->>Planner: ready
+    Planner->>Industriousness: ready also
+    Industriousness->>Planner: do something else
     Planner->>Planner: repeat
 ```
 
