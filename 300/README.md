@@ -30,3 +30,8 @@ sequenceDiagram
     Industriousness->>Planner: set mermaid data on iframe
     Planner->>Planner: render mermaid
 ```
+
+## 300 - How
+
+### 100 - Open Planner
+
