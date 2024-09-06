@@ -42,5 +42,7 @@ Checkmark the task "Industriousness" as completed for each day for which the tas
 
 See [Where are the periodic notes](https://help.noteplan.co/article/180-where-are-the-periodic-notes-monthly-quarterly-and-yearly)
 
-**TIP**: Enable and disable periodic notes inside Preferences > Calendar.
+**TIP**: Enable and disable periodic notes inside Preferences > Calendar in the App or Desktop edition of NotePlan. 
+
+**NOTE**: The web based edition of NotePlan won't show Monthly, Quarterly, or Yearly Calendar Notes.
 
