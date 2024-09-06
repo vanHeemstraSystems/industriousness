@@ -2,4 +2,4 @@
 
 In NotePad (https://app.noteplan.co or App) choose **Weekly** from the Workspace "Industriousness".
 
-Manage your week by editing calendar events.
+Check your week's calendar events.
