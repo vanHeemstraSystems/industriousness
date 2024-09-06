@@ -21,12 +21,12 @@ flowchart LR
 ```mermaid
 sequenceDiagram
     participant Industriousness
-    participant iframe
+    participant Planner
     participant viewscreen
-    Industriousness->>iframe: loads html w/ iframe url
-    iframe->>viewscreen: request template
-    viewscreen->>iframe: html & javascript
-    iframe->>Industriousness: iframe ready
-    Industriousness->>iframe: set mermaid data on iframe
-    iframe->>iframe: render mermaid
+    Industriousness->>Planner: loads html w/ iframe url
+    Planner->>viewscreen: request template
+    viewscreen->>Planner: html & javascript
+    Planner->>Industriousness: iframe ready
+    Industriousness->>Planner: set mermaid data on iframe
+    Planner->>Planner: render mermaid
 ```
