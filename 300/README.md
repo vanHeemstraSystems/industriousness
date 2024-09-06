@@ -21,24 +21,31 @@ flowchart LR
 ```mermaid
 sequenceDiagram
     participant Industriousness
-    participant Planner
+    participant Communications
     participant Channels
+    participant Planner
+    Industriousness->>Communications: Open communications
+    Communications->>Channels: Monitor "Industriousness" channel
+    Channels->>Channels: Interact
     Industriousness->>Planner: Open planner
-    Planner->>Channels: Monitor "Industriousness" channel
-    Channels->>Planner: Ready
-    Planner->>Industriousness: Ready also
-    Industriousness->>Planner: Do something else
-    Planner->>Planner: Repeat
+    Channels->>Communications: Ready
+    Communications->>Industriousness: Ready also
+    Industriousness->>Communications: Do something else
+    Communications->>Communications: Repeat
 ```
 
 ## 300 - How
 
-### 100 - Open Planner
+### 100 - Open Communications
 
 See [README.md](./300/100/README.md)
 
 ### 200 - Monitor "Industriousness" channel
 
 See [README.md](./300/200/README.md)
+
+### 300 - Open Planner
+
+See [README.md](./300/300/README.md)
 
 MORE
