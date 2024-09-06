@@ -37,3 +37,10 @@ The above will automatically convert the text to a list of tasks called "Industr
 ## 200 - Close a Task if Completed
 
 Checkmark the task "Industriousness" as completed for each day for which the task has finished.
+
+## 300 - Update your Monthly, Quarterly and Yearly Periodic Notes
+
+See [Where are the periodic notes](https://help.noteplan.co/article/180-where-are-the-periodic-notes-monthly-quarterly-and-yearly)
+
+**TIP**: Enable and disable periodic notes inside Preferences > Calendar.
+
