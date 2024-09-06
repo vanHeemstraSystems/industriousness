@@ -60,3 +60,13 @@ To differentiate between Projects, use a tag (```#```) as a postfix to either a 
 ```
 
 When you click the hashtag (e.g. ```#SpaceShuttleProject```) under Tags in the lefthand panel, a Search result will show all references to this hashtag.
+
+## 500 - Use Mentions to Differentiate between People
+
+To differentiate between People, use a mention (```@```) as a postfix to either a Task or a Checklist Item.
+
+```
+09:00 - 09:00 Code a piece of software. #SpaceShuttleProject @Myself
+```
+
+When you click the mention (e.g. ```#SpaceShuttleProject```) under Mentions in the lefthand panel, a Search result will show all references to this mention.
