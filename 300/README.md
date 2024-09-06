@@ -4,11 +4,11 @@
 
 ```mermaid
 flowchart LR
-  A[Actor] --> B(UC: Monday)
-  A[Actor] --> C(UC: Tuesday)
-  A[Actor] --> D(UC: Wednesday)
-  A[Actor] --> E(UC: Thursday)
-  A[Actor] --> F(UC: Friday)
+  A[Actor] --> B(When: Monday)
+  A[Actor] --> C(When: Tuesday)
+  A[Actor] --> D(When: Wednesday)
+  A[Actor] --> E(When: Thursday)
+  A[Actor] --> F(When: Friday)
   B --> G{Abstract UC: Industriousness}
   C --> G{Abstract UC: Industriousness}
   D --> G{Abstract UC: Industriousness}
