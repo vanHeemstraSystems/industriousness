@@ -28,5 +28,3 @@ The above will automatically convert the text to a task called "Code a piece of 
 ## 200 - Move a Task to Another Day
 
 See [How to review and move your tasks forward?](https://www.youtube.com/watch?v=DgFILdl4i4Q).
-
-Finally, checkmark the task "Industriousness" as completed for the day when finished.
