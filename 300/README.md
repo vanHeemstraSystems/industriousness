@@ -1,6 +1,6 @@
 # 300 - Managing Our Activity
 
-```{mermaid}
+```mermaid
 flowchart LR
   A[Learner] --> B(UC: Master Screenplays)
   A[Learner] --> C(UC: Master Notes)
