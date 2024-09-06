@@ -23,7 +23,7 @@ In the Weekly (Week 36, 2024) enter the following tasks by copying and pasting t
 **NOTE**: We skip the Sunday and Saturday, as "Industriousness" is an activity that is **not** planned for days other than weekdays (i.e. Monday - Friday).
 
 - Now, in front of each line of text click on the **+** sign and choose **Task**.
-- Also hit the << ENTER >> key at the end of each line of text.
+- Also hit the < ENTER > key at the end of each line of text.
 
 The above will automatically convert the text to a list of tasks called "Industriousness", planned for each workday of the week.
 
