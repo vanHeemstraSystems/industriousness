@@ -6,7 +6,9 @@ Based on "Zulip" at https://zulip.com
 
 Based on "Zulip on Github" at https://github.com/zulip/zulip
 
-As a planner, we recommend using **Zulip**.
+Based on "Zulip Cloud" at https://zulipchat.com
+
+As a planner, we recommend using **Zulip** the cloud edition.
 
 To open the planner, ...
 
