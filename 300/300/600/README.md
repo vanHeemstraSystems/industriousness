@@ -59,7 +59,7 @@ To differentiate between Projects, use a tag (```#```) as a postfix to either a 
 09:00 - 09:00 Code a piece of software. #SpaceShuttleProject
 ```
 
-When you click the hashtag (e.g. ```#SpaceShuttleProject```) under Hashtags in the lefthand panel, a Search result will show all references to this hashtag.
+When you click the hashtag (e.g. ```#SpaceShuttleProject```) under Tags>Hashtags in the lefthand panel, a Search result will show all references to this hashtag.
 
 ## 500 - Use Mentions to Differentiate between People
 
@@ -69,4 +69,4 @@ To differentiate between People, use a mention (```@```) as a postfix to either 
 09:00 - 09:00 Code a piece of software. #SpaceShuttleProject @Willem_van_Heemstra
 ```
 
-When you click the mention (e.g. ```@Willem_van_Heemstra```) under Mentions in the lefthand panel, a Search result will show all references to this mention.
+When you click the mention (e.g. ```@Willem_van_Heemstra```) under Tags>Mentions in the lefthand panel, a Search result will show all references to this mention.
