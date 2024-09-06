@@ -36,3 +36,9 @@ sequenceDiagram
 ### 100 - Open Planner
 
 See [README.md](./300/100/README.md)
+
+### 200 - Monitor "Industriousness" channel
+
+See [README.md](./300/200/README.md)
+
+MORE
