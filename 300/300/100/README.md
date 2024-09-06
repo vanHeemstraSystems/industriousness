@@ -10,4 +10,4 @@ Based on "Zulip Cloud" at https://zulipchat.com
 
 As a planner, we recommend using **Zulip** the cloud edition (free tier).
 
-Open the planner by visiting https://wvanheemstra.zulipchat.com.
+Open the planner by visiting https://wvanheemstra.zulipchat.com in a web browser and/or use the App (sign in to ```wvanheemstra.zulipchat.com```).
