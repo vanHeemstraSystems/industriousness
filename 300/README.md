@@ -32,6 +32,7 @@ sequenceDiagram
     Planner->>Workspaces: Monitor "Industriousness" Workspace
     Workspaces->>Workspaces: Interact
     Workspaces->>Planner: Ready
+    Planner->>Industriousness: Ready also
     Channels->>Communications: Ready
     Communications->>Industriousness: Ready also
     Industriousness->>Communications: Do something else
