@@ -66,7 +66,7 @@ When you click the hashtag (e.g. ```#SpaceShuttleProject```) under Tags in the l
 To differentiate between People, use a mention (```@```) as a postfix to either a Task or a Checklist Item.
 
 ```
-09:00 - 09:00 Code a piece of software. #SpaceShuttleProject @Myself
+09:00 - 09:00 Code a piece of software. #SpaceShuttleProject @Willem_van_Heemstra
 ```
 
-When you click the mention (e.g. ```#SpaceShuttleProject```) under Mentions in the lefthand panel, a Search result will show all references to this mention.
+When you click the mention (e.g. ```@Willem_van_Heemstra```) under Mentions in the lefthand panel, a Search result will show all references to this mention.
