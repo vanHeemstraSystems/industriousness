@@ -1,6 +1,6 @@
 # 500 - Schedule Weekly Calendar Events for This Week
 
-In NotePad (https://app.noteplan.co or App) choose **Weekly** from the Workspace "Industriousness".
+In NotePad (https://app.noteplan.co or App or Desktop) choose **Weekly** from the Workspace "Industriousness".
 
 Schedule your week's calendar events.
 
