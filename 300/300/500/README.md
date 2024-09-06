@@ -1,1 +1,1 @@
-# 500 - Check Weekly Calendar Events for this Week
+# 500 - Check Weekly Calendar Events for This Week
