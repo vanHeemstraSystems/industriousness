@@ -27,7 +27,7 @@ sequenceDiagram
     Planner->>Foo: do something
     Foo->>Planner: do something else
     Planner->>Industriousness: ready
-    Industriousness->>Planner: ready also
+    Industriousness->>Planner: do yet something else
     Planner->>Planner: repeat
 ```
 
