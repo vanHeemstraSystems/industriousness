@@ -22,10 +22,10 @@ flowchart LR
 sequenceDiagram
     participant Industriousness
     participant Planner
-    participant Foo
-    Industriousness->>Planner: open planner
-    Planner->>Foo: do something
-    Foo->>Planner: ready
+    participant Channel
+    Industriousness->>Planner: Open planner
+    Planner->>Channel: Monitor Industriousness channel
+    Channel->>Planner: ready
     Planner->>Industriousness: ready also
     Industriousness->>Planner: do something else
     Planner->>Planner: repeat
