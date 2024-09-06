@@ -26,7 +26,7 @@ sequenceDiagram
     participant Planning
     participant Workspaces
     Industriousness->>Communication: Open Communication
-    Communications->>Channels: Monitor "Industriousness" Channel
+    Communication->>Channels: Monitor "Industriousness" Channel
     Channels->>Channels: Interact
     Industriousness->>Planning: Open Planning
     Planning->>Workspaces: Monitor "Industriousness" Workspace
