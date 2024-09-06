@@ -25,10 +25,10 @@ sequenceDiagram
     participant Channels
     Industriousness->>Planner: Open planner
     Planner->>Channels: Monitor "Industriousness" channel
-    Channels->>Planner: ready
-    Planner->>Industriousness: ready also
-    Industriousness->>Planner: do something else
-    Planner->>Planner: repeat
+    Channels->>Planner: Ready
+    Planner->>Industriousness: Ready also
+    Industriousness->>Planner: Do something else
+    Planner->>Planner: Repeat
 ```
 
 ## 300 - How
