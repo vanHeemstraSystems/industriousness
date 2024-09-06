@@ -28,3 +28,25 @@ The above will automatically convert the text to a task called "Code a piece of 
 ## 200 - Move a Task to Another Day
 
 See [How to review and move your tasks forward?](https://www.youtube.com/watch?v=DgFILdl4i4Q).
+
+## 300 - Create a Checklist
+
+See [How are checklists different from tasks?](https://help.noteplan.co/article/178-how-are-checklists-different-from-tasks)
+
+Checklists are different from Tasks:
+
+1) Checklists don't increment the overdue task counter on iOS Besdide the calendar title at the top.
+2) Checklists don't appear in your Overdue list within Filters.
+3) Checklists won't contribute to Calendar Heat Maps.
+
+Checklists are best to be used for:
+
+- Packing List (when traveling)
+- Grocery Lists
+- Goals
+- Timeblocks
+- Actual subtasks. You have one main task and a list of possible subtasks, ideas, etc.
+
+Checklist are similar to Tasks:
+
+1) Both Checklists and Tasks will show in calendars. 
