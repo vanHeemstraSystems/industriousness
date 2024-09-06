@@ -1,7 +1,7 @@
 industriousness
 # Industriousness
 
-> 
+> Industriousness: constant, energetic, or devoted effort; diligence.
 
 Based on "Wooden on Leadership by John Wooden" at https://www.amazon.com/Wooden-Leadership-Create-Winning-Organization/dp/0071453393
 
