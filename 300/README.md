@@ -32,8 +32,8 @@ sequenceDiagram
     Channels->>Channels: Interact
     Industriousness->>Planning: Open Planning
     Planning->>Workspaces: Monitor "Industriousness" Workspace
-    Workspaces->>Weekly: Check Weekly Calender Events for This Week
-    Workspaces->>Daily: Check Daily Calender Events for Today
+    Workspaces->>Weekly: Schedule Weekly Calender Events for This Week
+    Workspaces->>Daily: Manage Daily Calender Events for Today
     Workspaces->>Workspaces: Interact
     Workspaces->>Planning: Ready
     Planning->>Industriousness: Ready also
@@ -61,11 +61,11 @@ See [README.md](./300/300/README.md)
 
 See [README.md](./300/400/README.md)
 
-### 500 - Check Weekly Calender Events for This Week
+### 500 - Schedule Weekly Calender Events for This Week
 
 See [README.md](./300/500/README.md)
 
-### 600 - Check Daily Calender Events for Today
+### 600 - Manage Daily Calender Events for Today
 
 See [README.md](./300/600/README.md)
 
