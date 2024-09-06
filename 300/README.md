@@ -59,4 +59,14 @@ See [README.md](./300/300/README.md)
 
 ### 400 - Monitor "Industriousness" Workspace
 
+See [README.md](./300/400/README.md)
+
+### 500 - Check Weekly Calender Events for This Week
+
+See [README.md](./300/500/README.md)
+
+### 600 - Check Daily Calender Events for Today
+
+See [README.md](./300/600/README.md)
+
 MORE
