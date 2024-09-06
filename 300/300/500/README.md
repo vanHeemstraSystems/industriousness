@@ -24,7 +24,7 @@ In the Weekly (Week 36, 2024) enter the following tasks by copying and pasting t
 
 The above will automatically convert the text to a list of tasks called "Industriousness", planned for each workday of the week.
 
-**TIP**: If you switch to Daily (2 September 2024) and open the "REFERENCE" section near the top, it will display:
+**TIP**: If you switch to Daily (e.g. 2 September 2024) and open the "REFERENCE" section near the top, it will display:
 
 ```
 **Week 36**
