@@ -1,6 +1,6 @@
-# 300 - Open Planner
+# 300 - Open Planning
 
-> ...
+> NotePlan is a note-taking application with tasks and a calendar.
 
 Based on "NotePlan" at ...
 
