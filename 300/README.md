@@ -23,7 +23,7 @@ sequenceDiagram
     participant Industriousness
     participant Planner
     participant viewscreen
-    Industriousness->>Planner: loads html w/ iframe url
+    Industriousness->>Planner: open planner
     Planner->>viewscreen: request template
     viewscreen->>Planner: html & javascript
     Planner->>Industriousness: iframe ready
