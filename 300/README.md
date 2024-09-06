@@ -21,11 +21,11 @@ flowchart LR
 ```mermaid
 sequenceDiagram
     participant Industriousness
-    participant Communications
+    participant Communication
     participant Channels
     participant Planning
     participant Workspaces
-    Industriousness->>Communications: Open Communications
+    Industriousness->>Communication: Open Communication
     Communications->>Channels: Monitor "Industriousness" Channel
     Channels->>Channels: Interact
     Industriousness->>Planning: Open Planning
@@ -33,15 +33,15 @@ sequenceDiagram
     Workspaces->>Workspaces: Interact
     Workspaces->>Planning: Ready
     Planning->>Industriousness: Ready also
-    Channels->>Communications: Ready
-    Communications->>Industriousness: Ready also
-    Industriousness->>Communications: Do something else
-    Communications->>Communications: Repeat
+    Channels->>Communication: Ready
+    Communication->>Industriousness: Ready also
+    Industriousness->>Communication: Do something else
+    Communication->>Communication: Repeat
 ```
 
 ## 300 - How
 
-### 100 - Open Communications
+### 100 - Open Communication
 
 See [README.md](./300/100/README.md)
 
