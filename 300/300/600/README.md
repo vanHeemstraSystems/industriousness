@@ -58,3 +58,5 @@ To differentiate between Projects, use a tag (```#```) as a postfix to either a 
 ```
 09:00 - 09:00 Code a piece of software. #SpaceShuttleProject
 ```
+
+When you click the hashtag (e.g. ```SpaceShuttleProject```) under Tags in the lefthand panel, a Search result will show all references to this hashtag.
