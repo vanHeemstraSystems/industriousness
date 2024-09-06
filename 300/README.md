@@ -1,14 +1,22 @@
 # 300 - Managing Our Activity
 
+## 100 - When
+
 ```mermaid
 flowchart LR
-  A[Learner] --> B(UC: Master Screenplays)
-  A[Learner] --> C(UC: Master Notes)
-  A[Learner] --> D(UC: Master Audio Video Scripts) 
-  B --> F{Abstract UC: Master Screenwriting}
-  C --> F{Abstract UC: Master Screenwriting}
-  D --> F{Abstract UC: Master Screenwriting}
+  A[Actor] --> B(UC: Monday)
+  A[Actor] --> C(UC: Tuesday)
+  A[Actor] --> D(UC: Wednesday)
+  A[Actor] --> E(UC: Thursday)
+  A[Actor] --> F(UC: Friday)
+  B --> F{Abstract UC: Industriousness}
+  C --> F{Abstract UC: Industriousness}
+  D --> F{Abstract UC: Industriousness}
+  E --> F{Abstract UC: Industriousness}
+  F --> F{Abstract UC: Industriousness}
 ```
+
+## 200 - What
 
 ```mermaid
 sequenceDiagram
