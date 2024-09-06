@@ -18,8 +18,6 @@ In the Daily (Week 36, 2 September 2024) enter the following task by copying and
 09:00 - 09:10 Code a piece of software.
 ```
 
-**NOTE**: We skip the Sunday and Saturday, as "Industriousness" is an activity that is not planned for days other than weekdays (i.e. Monday - Friday).
-
 **NOTE**: Having a timeslot in front of the task is optional. However, only if a task is prefixed with a timeslot, it will show in the calendar.
 
 - Now, in front of the line of text click on the + sign and choose Task.
