@@ -8,4 +8,4 @@ Based on "NotePlan on YouTube" at https://www.youtube.com/@noteplan75
 
 For planning we recommend "NotePlan".
 
-Open planning by visiting https://app.noteplan.co in a web browser and/or use the App (sign in with wvanheemstra@icloud.com) or the Desktop edition.
+Open planning by visiting https://app.noteplan.co in a web browser and/or use the App (sign in with willem.van.heemstra@creations.global like the Apple ID to allow sync between web and App/Desktop) or the Desktop edition.
