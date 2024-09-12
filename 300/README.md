@@ -33,6 +33,7 @@ sequenceDiagram
     Industriousness->>Planning: Open Planning
     Planning->>Workspaces: Monitor "Industriousness" Workspace
     Workspaces->>Weekly: Schedule Weekly Calender Events for This Week
+    Weekly->>Workspaces: Ready
     Workspaces->>Daily: Manage Daily Calender Events for Today
     Daily->>Stories: Work on User and Job Stories for Today
     Stories->>Stories: Work
