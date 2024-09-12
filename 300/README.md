@@ -34,7 +34,9 @@ sequenceDiagram
     Planning->>Workspaces: Monitor "Industriousness" Workspace
     Workspaces->>Weekly: Schedule Weekly Calender Events for This Week
     Workspaces->>Daily: Manage Daily Calender Events for Today
-    Workspaces->>Workspaces: Interact
+    Daily->>Stories: Work on User and Job Stories for Today
+    Stories->>Stories: Work
+    Stories->>Daily: Ready
     Workspaces->>Planning: Ready
     Planning->>Industriousness: Ready also
     Channels->>Communication: Ready
@@ -68,5 +70,9 @@ See [README.md](./300/500/README.md)
 ### 600 - Manage Daily Calender Events for Today
 
 See [README.md](./300/600/README.md)
+
+### 700 - Work on User and Job Stories for Today
+
+See [README.md](./300/700/README.md)
 
 MORE
