@@ -37,6 +37,7 @@ sequenceDiagram
     Daily->>Stories: Work on User and Job Stories for Today
     Stories->>Stories: Work
     Stories->>Daily: Ready
+    Daily->>Workspaces: Ready also
     Workspaces->>Planning: Ready
     Planning->>Industriousness: Ready also
     Channels->>Communication: Ready
