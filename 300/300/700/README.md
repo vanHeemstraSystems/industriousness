@@ -1,6 +1,6 @@
 # 700 - Work on User and Job Stories for Today
 
-In StoriesOnBoards (https://storiesonboard.com/ai-story-map-generator.html) choose ... from the Workspace "Industriousness".
+In StoriesOnBoards (https://wvanheemstra.storiesonboard.com) choose ... from the Workspace "Industriousness".
 
 Stories will show at the top of your overview.
 
