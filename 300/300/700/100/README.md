@@ -44,10 +44,6 @@ See [README.md](./100/300/README.md)
 
 See [README.md](./100/400/README.md)
 
-Conduct a code review with peers.
-
-Address any feedback or required changes.
-
 ### 500 - Documentation
 
 See [README.md](./100/500/README.md)
