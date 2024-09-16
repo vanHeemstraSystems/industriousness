@@ -32,19 +32,9 @@ flowchart LR
 
 See [README.md](./100/100/README.md)
 
-Conduct any necessary research or design work.
-
-Create wireframes, mockups, or architectural diagrams if needed.
-
 ### 200 - Development
 
 See [README.md](./100/200/README.md)
-
-Write code to implement the user story
-
-Follow coding standrads and best practices.
-
-Commit code regularly to the version control system.
 
 ### 300 - Testing
 
