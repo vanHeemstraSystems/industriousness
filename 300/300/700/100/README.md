@@ -48,17 +48,9 @@ See [README.md](./100/400/README.md)
 
 See [README.md](./100/500/README.md)
 
-Update any relevant documentation (e.g., API docs, user guides).
-
-Ensure comments and code are well-documented.
-
 ### 600 - Deployment
 
 See [README.md](./100/600/README.md)
-
-Deploy the feature to a staging environment.
-
-Verify the deployment process.
 
 ### 700 - Demonstration
 
