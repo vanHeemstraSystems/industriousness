@@ -14,14 +14,16 @@ flowchart LR
   A[Actor] --> E(What: Review and Feedback)
   A[Actor] --> F(What: Documentation)
   A[Actor] --> G(What: Deployment)
-  A[Actor] --> H(What: Demo)
-  B --> I{Abstract UC: Work on User Stories}
-  C --> I{Abstract UC: Work on User Stories}
-  D --> I{Abstract UC: Work on User Stories}
-  E --> I{Abstract UC: Work on User Stories}
-  F --> I{Abstract UC: Work on User Stories}
-  G --> I{Abstract UC: Work on User Stories}
-  H --> I{Abstract UC: Work on User Stories}
+  A[Actor] --> H(What: Demonstration)
+  A[Actor] --> I(What: Closure)
+  B --> J{Abstract UC: Work on User Stories}
+  C --> J{Abstract UC: Work on User Stories}
+  D --> J{Abstract UC: Work on User Stories}
+  E --> J{Abstract UC: Work on User Stories}
+  F --> J{Abstract UC: Work on User Stories}
+  G --> J{Abstract UC: Work on User Stories}
+  H --> J{Abstract UC: Work on User Stories}
+  I --> J{Abstract UC: Work on User Stories}
 ```
 
 ## 100 - Design and Research
@@ -76,7 +78,7 @@ Deploy the feature to a staging environment.
 
 Verify the deployment process.
 
-## 700 - Demo
+## 700 - Demonstration
 
 See [README.md](./700/README.md)
 
@@ -84,8 +86,8 @@ Demonstrate the completed user story to the Product Owner and stakeholders.
 
 Gather feedback and make necessary afdjustments.
 
-## 800 - Close the Story
+## 800 - Closure
 
-Mark the user story as done in the project management tool.
+Mark the user story as **done** in the project management tool.
 
-Move the story to the done column on the board.
+Move the story to the **done** column on the board.
