@@ -40,12 +40,6 @@ See [README.md](./100/200/README.md)
 
 See [README.md](./100/300/README.md)
 
-Write and run unit tests.
-
-Conduct integration testing.
-
-Perform user acceptance testing (UAT) based on the acceptance criteria.
-
 ### 400 - Review and Feedback
 
 See [README.md](./100/400/README.md)
