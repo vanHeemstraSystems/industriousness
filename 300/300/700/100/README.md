@@ -6,8 +6,23 @@ Log into StoriesonBoard at https://app.storiesonboard.com/login
 
 Username: wvanheemstra@icloud.com
 
-
-
+```mermaid
+flowchart LR
+  A[Actor] --> B(What: Design and Research)
+  A[Actor] --> C(What: Development)
+  A[Actor] --> D(What: Testing)
+  A[Actor] --> E(What: Review and Feedback)
+  A[Actor] --> F(What: Documentation)
+  A[Actor] --> G(What: Deployment)
+  A[Actor] --> H(What: Demo)
+  B --> I{Abstract UC: Work on User Stories}
+  C --> I{Abstract UC: Work on User Stories}
+  D --> I{Abstract UC: Work on User Stories}
+  E --> I{Abstract UC: Work on User Stories}
+  F --> I{Abstract UC: Work on User Stories}
+  G --> I{Abstract UC: Work on User Stories}
+  H --> I{Abstract UC: Work on User Stories}
+```
 
 ## 100 - Design and Research
 
