@@ -2,7 +2,7 @@
 
 Example: *Develop a Deck of Playing Cards*
 
-## 100 - Write code to implement the user story
+## 100 - Write code to implement the user story.
 
 TO DO
 
