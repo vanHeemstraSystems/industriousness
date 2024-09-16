@@ -56,10 +56,6 @@ See [README.md](./100/600/README.md)
 
 See [README.md](./100/700/README.md)
 
-Demonstrate the completed user story to the Product Owner and stakeholders.
-
-Gather feedback and make necessary afdjustments.
-
 ### 800 - Closure
 
 See [README.md](./100/800/README.md)
