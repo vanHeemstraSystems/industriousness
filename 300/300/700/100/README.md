@@ -59,7 +59,3 @@ See [README.md](./100/700/README.md)
 ### 800 - Closure
 
 See [README.md](./100/800/README.md)
-
-Mark the user story as **done** in the project management tool.
-
-Move the story to the **done** column on the board.
