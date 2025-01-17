@@ -1,6 +1,6 @@
 # 100 - Design and Research
 
-Eaxmple: *Design and Research a Deck of Playing Cards*
+Example: *Design and Research a Deck of Playing Cards*
 
 ## 100 - Conduct any necessary research or design work.
 
