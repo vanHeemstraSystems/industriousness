@@ -4,6 +4,6 @@
 
 TO DO
 
-## 200 - Gather feedback and make necessary afdjustments.
+## 200 - Gather feedback and make necessary adjustments.
 
 TO DO
